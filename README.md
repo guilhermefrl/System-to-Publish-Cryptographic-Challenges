@@ -1,1 +1,1 @@
-# System-to-Publish-Cryptographic-Challenges
+# System to Publish Cryptographic Challenges
